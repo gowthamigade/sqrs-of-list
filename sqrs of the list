@@ -1,0 +1,7 @@
+list=[1,2,4,6,11,20]
+print(list)
+for i in list:
+  squares=i*i
+  print(squares,end=" ")
+   
+
